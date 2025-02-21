@@ -88,15 +88,14 @@ node bot.js
 
 ---
 
-📜 Lisensi
+## 📜 Lisensi  
 
-Script ini dibuat untuk tujuan pembelajaran dan pengujian. Penggunaan di luar tanggung jawab pengembang.
+Script ini didistribusikan untuk keperluan pembelajaran dan pengujian. Penggunaan di luar tanggung jawab pengembang.  
 
-Untuk update terbaru, bergabunglah di grup Telegram: Klik di sini.
+Untuk update terbaru, bergabunglah di grup **Telegram**: [Klik di sini](https://t.me/sentineldiscus).
 
 
 ---
 
-💡 Disclaimer
-
+## 💡 Disclaimer
 Penggunaan bot ini sepenuhnya tanggung jawab pengguna. Kami tidak bertanggung jawab atas penyalahgunaan skrip ini.
